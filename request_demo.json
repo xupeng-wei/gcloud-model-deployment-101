@@ -1,0 +1,19 @@
+{
+    "instances": [
+        {
+            "price": 1.0,
+            "country": "Philippines",
+            "description": "da coconut nut is not a nut..."
+        },
+        {
+            "price": 20.3,
+            "country": "United States",
+            "description": "Oh, Shenandoah, I long to hear you"
+        },
+        {
+            "price": 3.2,
+            "country": "Austria",
+            "description": "Bright copper kettles and warm woolen mittens"
+        }
+    ]
+}
